@@ -1,0 +1,26 @@
+/* styles.css */
+
+#button{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman','sans-serif';
+}
+.black {
+    background-color: black;
+    color: white;
+}
+.yellow {
+    background-color: yellow;
+}
+    /* TOP'S Solution */
+
+.inverted {
+    background-color: black;
+    color: white;
+}
+.fancy {
+    background-color: yellow;
+}
+.inverted, .fancy{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman','sans-serif';
+}
